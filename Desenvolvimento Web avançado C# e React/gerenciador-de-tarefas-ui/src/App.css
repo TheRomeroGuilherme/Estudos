@@ -1,0 +1,93 @@
+body {
+  background-color: #f4f7f9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+h1 {
+  text-align: center;
+  color: #2c3e50;
+}
+
+.form {
+  display: flex;
+  margin-bottom: 1.5rem;
+}
+
+.form input {
+  flex-grow: 1;
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.form button {
+  padding: 0.75rem 1.5rem;
+  border: none;
+  background-color: #3498db;
+  color: white;
+  border-radius: 4px;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.form button:hover {
+  background-color: #2980b9;
+}
+
+.tarefa {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: #ecf0f1;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  transition: all 0.2s;
+}
+
+.tarefa p {
+  margin: 0;
+  cursor: pointer;
+}
+
+.tarefa.concluida {
+  background: #d4efdf;
+}
+
+.tarefa.concluida p {
+  text-decoration: line-through;
+  color: #7f8c8d;
+}
+
+.btn-delete {
+  padding: 0.4rem 0.8rem;
+  border: none;
+  background-color: #e74c3c;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.btn-delete:hover {
+  background-color: #c0392b;
+}
