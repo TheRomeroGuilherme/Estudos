@@ -3,7 +3,7 @@ import axios from 'axios';
 import './App.css'; // Vamos criar este CSS básico
 
 // Configure a URL base da sua API. Altere a porta se a sua for diferente.
-const API_URL = 'http://localhost:5292/api/tarefas'; 
+const API_URL = 'http://localhost:5099/api/tarefas';
 
 function App() {
   const [tarefas, setTarefas] = useState([]);

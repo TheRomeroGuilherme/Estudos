@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ovmgYEGcx4I=",
+  "dgSpecHash": "r4Fh71wx8SE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Documentos\\Obsidian\\Desenvolvimento Web avançado C# e React\\Revisão Prova\\RevisaoBackEnd\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Estudos\\Desenvolvimento Web avançado C# e React\\RevisaoBackEnd\\GerenciadorDeTarefas.API\\GerenciadorDeTarefas.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
