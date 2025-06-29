@@ -1,0 +1,8 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos\Desenvolvimento Web avançado C# e React\RevisaoBackEnd\GerenciadorDeTarefas.API\obj\Debug\net8.0\GerenciadorDeTarefas.API.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos\Desenvolvimento Web avançado C# e React\RevisaoBackEnd\GerenciadorDeTarefas.API\obj\Debug\net8.0\GerenciadorDeTarefas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos\Desenvolvimento Web avançado C# e React\RevisaoBackEnd\GerenciadorDeTarefas.API\obj\Debug\net8.0\GerenciadorDeTarefas.API.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos\Desenvolvimento Web avançado C# e React\RevisaoBackEnd\GerenciadorDeTarefas.API\obj\Debug\net8.0\GerenciadorDeTarefas.API.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos\Desenvolvimento Web avançado C# e React\RevisaoBackEnd\GerenciadorDeTarefas.API\obj\Debug\net8.0\GerenciadorDeTarefas.API.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos\Desenvolvimento Web avançado C# e React\RevisaoBackEnd\GerenciadorDeTarefas.API\obj\Debug\net8.0\GerenciadorDeTarefas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos\Desenvolvimento Web avançado C# e React\RevisaoBackEnd\GerenciadorDeTarefas.API\obj\Debug\net8.0\GerenciadorDeTarefas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Estudos\Desenvolvimento Web avançado C# e React\RevisaoBackEnd\GerenciadorDeTarefas.API\obj\Debug\net8.0\GerenciadorDeTarefas.API.sourcelink.json
